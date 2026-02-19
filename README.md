@@ -1,2 +1,2 @@
 # examengitmarialeonorbreso
-Repositorio apartado 1 examen
+Repositorio del alumno: Maria Leonor Bresó Moreno
